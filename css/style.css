@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.navbar-default {
+    background-color: #12181B;
+    border-top: 4px solid #318B98;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+color: #fff;
+font-weight: 500;
+font-family: 'Montserrat', sans-serif;
+font-size: medium;
+}
+
+.navbar-default .navbar-nav>.active>a{
+background-color: #318B98;
+color: #fff;
+font-weight: 500;
+font-family: 'Montserrat', sans-serif;
+font-size: medium;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    background-color: #1DAA75;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    
+}
+
+.dropdown-menu {
+    background-color: #318B98;
+}
+
+
